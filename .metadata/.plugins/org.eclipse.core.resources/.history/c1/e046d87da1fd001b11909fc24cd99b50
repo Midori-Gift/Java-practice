@@ -16,6 +16,9 @@ public class Chapter05 {
 
         int[] array = { 0, 10, 20, 30, 40 };
         System.out.println(array[3]);
+      //　練習
+        int[] array01 = {0, 10, 20, 30, 40};
+        System.out.println(array01[3]);
     }
 }
 
