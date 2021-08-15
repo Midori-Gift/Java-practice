@@ -1,0 +1,24 @@
+
+public class Chapter05 {
+	public static void main(String[] args) {
+		long long01;
+		long01 = 123123123L;
+		System.out.println(long01);
+
+		double double01;
+		double01 = 0.123123123;
+		System.out.println(double01);
+
+		int[] array01 = new int[3];
+
+		array01[0] = 10;
+		array01[1] = 20;
+		array01[2] = 30;
+		array01[3] = 40;
+		array01[4] = 50;
+
+		int int3 = array01[3];
+
+		int array3[] = null;
+	}
+}

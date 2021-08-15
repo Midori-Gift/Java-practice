@@ -1,0 +1,7 @@
+
+public class Chapter04 {
+	public static void main(String[] args) {
+		final int FAVO_NAME = "Yoshida";
+		System.out.println(FAVO_NAME);
+	}
+}
