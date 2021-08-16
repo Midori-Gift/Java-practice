@@ -6,11 +6,15 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter04mohan"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter05"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter06mohan"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter07"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Character06"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Null01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Ready02"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Switch01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="SyntacsSample01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Valiable01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="chapter02"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="lf01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="lf02"/>
     </category>
 </runner>
