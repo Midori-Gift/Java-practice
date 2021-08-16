@@ -2119,3 +2119,9 @@ java.lang.IllegalStateException: Conflicting handlers: {[org.springframework.ide
 
 !ENTRY mergedoc.encoding 2 0 2021-08-16 15:30:32.735
 !MESSAGE リソース '/JavaPractice/src/Chapter09.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-08-16 15:50:27.014
+!MESSAGE リソース '/JavaPractice/src/Exception01.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-08-16 15:50:27.015
+!MESSAGE リソース '/JavaPractice/src/Exception01.java' が存在しません。
